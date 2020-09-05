@@ -6,7 +6,7 @@ RemindMe is a reminders app, built for iOS, which allows users to create and acc
 The code base is written in Swift and Firebase was used as the main database for handling account creation and user specific reminder data storage. Below are screen shots and a video of how this app works. 
 
 
-<img width="328" alt="Screen Shot 2020-09-05 at 2 26 07 AM" src="https://user-images.githubusercontent.com/17755157/92302419-f369a380-ef20-11ea-8fcd-95e16e245680.png">
+<img width="328" alt="Screen Shot 2020-09-05 at 2 26 07 AM" src="https://user-images.githubusercontent.com/17755157/92302419-f369a380-ef20-11ea-8fcd-95e16e245680.png">.  <img width="324" alt="Screen Shot 2020-09-05 at 2 26 17 AM" src="https://user-images.githubusercontent.com/17755157/92302431-0aa89100-ef21-11ea-9b95-9c3710e59e63.png">
 
 
-<img width="324" alt="Screen Shot 2020-09-05 at 2 26 17 AM" src="https://user-images.githubusercontent.com/17755157/92302431-0aa89100-ef21-11ea-9b95-9c3710e59e63.png">
+
